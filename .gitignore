@@ -1,0 +1,5 @@
+# local only: generator (has local paths), handoff notes, reference/preview images
+make_banner.py
+HANDOFF.md
+.avatar-ref.png
+.banner-*.png
