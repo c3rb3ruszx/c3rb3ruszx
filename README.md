@@ -44,12 +44,7 @@ A Windows companion for the Flipper Zero, with a dolphin that solders while it c
 
 ### `> ls ~/stack`
 
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=ff8200" alt="Python">
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=ff8200" alt="JavaScript">
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff8200" alt="C">
-<img src="https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&logo=powershell&logoColor=ff8200" alt="PowerShell">
-<img src="https://img.shields.io/badge/HTML%2FCSS-000000?style=for-the-badge&logo=html5&logoColor=ff8200" alt="HTML and CSS">
-<img src="https://img.shields.io/badge/UFBT-000000?style=for-the-badge&logoColor=ff8200" alt="ufbt">
+<p><img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=ff8200" alt="Python"> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=ff8200" alt="JavaScript"> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff8200" alt="C"> <img src="https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&logo=powershell&logoColor=ff8200" alt="PowerShell"> <img src="https://img.shields.io/badge/HTML%2FCSS-000000?style=for-the-badge&logo=html5&logoColor=ff8200" alt="HTML and CSS"> <img src="https://img.shields.io/badge/UFBT-000000?style=for-the-badge&logoColor=ff8200" alt="ufbt"></p>
 
 ### `> cat now.txt`
 
