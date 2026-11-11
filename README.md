@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=white&color=1a1a1a" alt="Windows">
 <img src="https://img.shields.io/github/followers/c3rb3ruszx?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=1a1a1a" alt="Followers">
 
-<a href="https://www.youtube.com/@C3rb3rus.z"><img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=ff0000" alt="YouTube"></a>
-<a href="https://www.tiktok.com/@c3rb3rus.x"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+<a href="https://www.youtube.com/@c3rb3ruszx"><img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=ff0000" alt="YouTube"></a>
+<a href="https://www.tiktok.com/@c3rb3ruszx"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 
 </div>
 
