@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="C3rb3rus: watch, guard, devour" width="100%">
+<img src="assets/banner.gif" alt="C3rb3rus: a three-headed pixel Cerberus in an underworld portal. Free tools, hardware hacks, open source builds" width="100%">
 
 <img src="https://img.shields.io/badge/FLIPPER_ZERO-000000?style=for-the-badge&labelColor=000000&color=ff8200&logoColor=white" alt="Flipper Zero">
 <img src="https://img.shields.io/badge/MOMENTUM_DEV-000000?style=for-the-badge&color=e1141e" alt="Momentum dev">
