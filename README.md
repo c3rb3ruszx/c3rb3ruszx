@@ -7,6 +7,9 @@
 <img src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=white&color=1a1a1a" alt="Windows">
 <img src="https://img.shields.io/github/followers/c3rb3ruszx?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=1a1a1a" alt="Followers">
 
+<a href="https://www.youtube.com/@C3rb3rus.z"><img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=ff0000" alt="YouTube"></a>
+<a href="https://www.tiktok.com/@c3rb3rus.x"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+
 </div>
 
 ### `> whoami`
@@ -37,6 +40,7 @@ A Windows companion for the Flipper Zero, with a dolphin that solders while it c
 
 <a href="https://github.com/c3rb3ruszx/flipper-workbench/releases/latest"><img src="https://img.shields.io/github/v/release/c3rb3ruszx/flipper-workbench?style=for-the-badge&label=DOWNLOAD&labelColor=000000&color=ff8200" alt="Download"></a>
 <a href="https://github.com/c3rb3ruszx/flipper-workbench"><img src="https://img.shields.io/github/stars/c3rb3ruszx/flipper-workbench?style=for-the-badge&label=STARS&labelColor=000000&color=e1141e" alt="Stars"></a>
+<a href="https://www.youtube.com/playlist?list=PLBpDgOq-m2-4"><img src="https://img.shields.io/badge/WATCH_THE_SERIES-000000?style=for-the-badge&logo=youtube&logoColor=ff8200" alt="Watch the series"></a>
 
 </td>
 </tr>
@@ -52,6 +56,7 @@ A Windows companion for the Flipper Zero, with a dolphin that solders while it c
 building   Flipper Workbench: Bluetooth mirror, app dev kit
 flipper    C3rb3rus · Momentum dev
 into       Sub-GHz · NFC · Infrared · BadUSB · ESP32 dev boards
+watch      5-part Flipper Workbench series on YouTube and TikTok
 talk       ideas and bugs welcome in flipper-workbench issues
 ```
 
